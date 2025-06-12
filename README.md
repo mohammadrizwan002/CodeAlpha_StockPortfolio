@@ -1,4 +1,4 @@
-📈 Stock Portfolio Tracker — CodeAlpha Python Internship
+📈 Stock Portfolio Tracker — CodeAlpha Python Internship (JUNE 2025)
 
 📌 Internship Context
 This project is part of the **Python Programming Internship** at **CodeAlpha**, where interns are required to build practical applications using Python fundamentals.
